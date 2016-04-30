@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[P.I.OTI]]></title>
+        <description><![CDATA[P.I.OTI]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Apr 2016 12:38:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A place for stories that impact your immediate surroundings</p>]]></description>
+            <link>undefineda-place-for-stories-that-impact-your-immediate-surroundings/index.html</link>
+            <guid isPermaLink="false">063cc7a7-8c03-467a-b27b-4a2c35a682d3</guid>
+            <pubDate>Sat, 30 Apr 2016 12:38:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
