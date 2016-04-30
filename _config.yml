@@ -1,0 +1,28 @@
+name: P.I.OTI
+favicon: null
+layout_spectrum: 0.3404771911446005
+typography_spectrum: 0.6995777843985707
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.33540295739658177
+  lightness: 0.24141348199918866
+  saturation: 0.7019872525706887
+  rhythmicContrast: 0.7764624925330281
+purpose: []
